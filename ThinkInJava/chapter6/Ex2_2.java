@@ -8,13 +8,13 @@
 // }
 
 //Standard Answer
-import net.mindview.simple.*;
+import fun.thinkinjava.net.mindview.simple.*;
 import java.util.*;
  
 public class Ex2_2 {
 	public static void main(String[] args) {
-		// Vector v = new Vector(); // ambiquous collision
-		net.mindview.simple.Vector v1 = new net.mindview.simple.Vector();
+		//Vector v = new Vector(); // ambiquous collision
+		fun.thinkinjava.net.mindview.simple.Vector v1 = new fun.thinkinjava.net.mindview.simple.Vector();
 		java.util.Vector v2 = new java.util.Vector();
 	}
 }
