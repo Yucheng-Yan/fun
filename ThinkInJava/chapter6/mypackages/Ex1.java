@@ -1,4 +1,4 @@
-package fun.thinkinjava.chapter6.mypackages;
+package mypackages;
  
 public class Ex1 {
     public Ex1(){
